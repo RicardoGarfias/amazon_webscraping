@@ -85,3 +85,16 @@ if __name__ == "__main__":
     paginas_a_buscar = 2  # Puedes cambiar el número de páginas
     df_resultado = buscar_amazon(busqueda, paginas_a_buscar)
     print(df_resultado)
+
+
+
+
+
+
+
+
+
+
+
+
+#SI LLEGO HASTA ACA "HOLA Y YA ANDO CANSADO PERO MOTIVADO PARA SEGUIR CON ESTO"

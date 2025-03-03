@@ -6,4 +6,5 @@ This project performs Web Scraping on Amazon Mexico using Python, Selenium, and 
 
 <img width="1222" alt="search_product" src="https://github.com/user-attachments/assets/308cc23f-9cf0-41e4-9d6c-c7df853640e9" />
 
+![image](https://github.com/user-attachments/assets/1d67e380-8ca7-4b77-abbc-dbe5582590ea)
 
